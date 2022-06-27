@@ -3,4 +3,4 @@
 
 #### ⚠注意:解凍して`§e§l生ゴミテクスチャ`をリソースパックフォルダに移動させてください
 
-### [ダウンロード](https://github.com/NamagomiNetwork/Namagomi-ResourcePack/archive/refs/heads/main.zip)
+### [ダウンロード](https://github.com/NamagomiNetwork/Namagomi-ResourcePack/releases)
