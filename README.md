@@ -6,7 +6,7 @@
 > テクスチャの反映にはOptifineが必要です
 
 [リソースパックダウンロード](https://github.com/NamagomiNetwork/Namagomi-ResourcePack/releases)
-<br>
+
 zipファイルのままでもテクスチャを反映できます
 
 ## きゅーあんどえー
