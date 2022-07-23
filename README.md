@@ -1,6 +1,16 @@
 # Namagomi-ResourcePack
 生ゴミ鯖の景品用のリソースパック  
 
-#### ⚠注意:解凍して`§e§l生ゴミテクスチャ_v2.0`をリソースパックフォルダに移動させてください
+## 導入方法
 
-### [ダウンロード](https://github.com/NamagomiNetwork/Namagomi-ResourcePack/releases)
+> テクスチャの反映にはOptifineが必要です
+
+[リソースパックダウンロード](https://github.com/NamagomiNetwork/Namagomi-ResourcePack/releases)
+<br>
+zipファイルのままでもテクスチャを反映できます
+
+## きゅーあんどえー
+
+- テクスチャが反映されない
+    - Optifineは入っていますか？
+    - 最新のリソースパックは入っていますか？
