@@ -9,6 +9,10 @@
 [リソースパックダウンロード](https://github.com/NamagomiNetwork/Namagomi-ResourcePack/releases)  
 zipファイルのままでもテクスチャを反映できます
 
+## 使い方
+- 生ゴミ鯖で開催されたイベントの参加賞にオリジナルテクスチャが付きます
+- 金床で棒の名前を`namagomi_iei`とすると生ゴミの遺影になります
+
 ## きゅーあんどえー
 
 - テクスチャが反映されない
