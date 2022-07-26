@@ -14,9 +14,9 @@ jobs:
       - name: remove files
         run: rm -rf .github && rm -rf renovate.json
       - name: create zip
-        run: zip -r namagomi-ResourcePack *
+        run: zip -r Namagomi-ResourcePack *
       - name: send  zip
         uses: actions/upload-artifact@v3
         with:
           name: zip_file
-          path: namagomi-ResourcePack.zip
+          path: Namagomi-ResourcePack.zip
