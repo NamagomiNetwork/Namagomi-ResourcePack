@@ -15,12 +15,12 @@ jobs:
       - name: remove files
         run: rm -rf .github && rm -rf renovate.json
       - name: create zip
-        run: zip -r namagomi-ResourcePack *
+        run: zip -r Namagomi-ResourcePack *
       - name: send  zip
         uses: actions/upload-artifact@v3
         with:
           name: ResourcePack
-          path: namagomi-ResourcePack.zip
+          path: Namagomi-ResourcePack.zip
   release_zip:
     runs-on: ubuntu-latest
     needs: create_zip
@@ -46,6 +46,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./namagomi-ResourcePack.zip
-          asset_name: namagomi-ResourcePack.zip
+          asset_path: ./Namagomi-ResourcePack.zip
+          asset_name: Namagomi-ResourcePack.zip
           asset_content_type: application/zip
