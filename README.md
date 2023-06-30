@@ -6,8 +6,7 @@
 
 > テクスチャの反映にはOptifineが必要です
 
-[リソースパックダウンロード](https://github.com/NamagomiNetwork/Namagomi-ResourcePack/releases)
-
+[リソースパックダウンロード](https://github.com/NamagomiNetwork/Namagomi-ResourcePack/releases)   
 現在の最新バージョンは<u>**3.0**</u>です
 
 ## 使い方
