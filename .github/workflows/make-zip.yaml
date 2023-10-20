@@ -10,7 +10,7 @@ jobs:
   create_zip:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: remove files
         run: rm -rf .github && rm -rf renovate.json
       - name: create zip
