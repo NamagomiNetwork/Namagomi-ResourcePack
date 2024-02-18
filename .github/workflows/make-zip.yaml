@@ -16,7 +16,7 @@ jobs:
       - name: create zip
         run: zip -r namagomi-ResourcePack *
       - name: send  zip
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: zip_file
           path: namagomi-ResourcePack.zip
